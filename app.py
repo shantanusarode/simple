@@ -7,4 +7,4 @@ def index():
     return '<h1>Welcome Shantanu</h1>'
 
 
-app.run(debug=True)
+app.run()
